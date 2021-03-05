@@ -1,0 +1,18 @@
+Hardware Components Used :
+
+Bolt Wifi Module.
+4 Channel Relay Board.
+220V AC to 5V 1.5 V DC converter ( or Power Adapter).
+5 pin Modular Casing(3 sockets only).
+6A 5 pin Modular Socket.
+6A 250V 3 pin Power Cable cord (or Assemble 3 core Copper wire with 3 pin top).
+Jumper wires (Male to Female).
+1 mm copper wire( approx 1 meter).
+
+Software / Apps and Online Services Used : 
+
+Bolt Cloud
+Bolt Android App
+IFTTT
+Twillio 
+Mailgun
