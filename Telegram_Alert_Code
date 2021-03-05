@@ -1,0 +1,8 @@
+Hii....
+This section is the coding part for the sending alerts on Telegram 
+when the temperature inside the Smart Extension will reach the set threshold value
+
+It has two sections:
+***********************
+conf.py
+telegram_alert.py
