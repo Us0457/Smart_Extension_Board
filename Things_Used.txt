@@ -1,5 +1,5 @@
 Hello!!
-I have listed som of the basic requirments of the project here which are listed below: 
+I have listed some of the basic requirments of the project here which are listed below: 
 
 *****************************************
 Hardware Components Used :
